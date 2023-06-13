@@ -1,7 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package egg.javaintro.exercises;
 
 import java.util.Scanner;
@@ -88,9 +84,9 @@ public class Eje21MatrizDentro {
         }
 
         if (matrizEncontrada) {
-            System.out.println("la matrizP  se encuentra dentro  de la matriz M ");
+            System.out.println("La matriz P  se encuentra dentro  de la matriz M ");
         } else {
-            System.out.println("la matrizP  no se encuentra dentro  de la matriz M ");
+            System.out.println("La matriz P  no se encuentra dentro  de la matriz M ");
         }
 
     }
